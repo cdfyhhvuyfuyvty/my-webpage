@@ -1,0 +1,21 @@
+/* styles.css 文件 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #ff99cc;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #ff99cc;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
